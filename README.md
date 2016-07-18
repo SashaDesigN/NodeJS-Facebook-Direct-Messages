@@ -22,7 +22,7 @@ This app send messages to prepeared list of users which are stored on MongoDB co
 
 ### How to run
 
-```` DEBUG=* node message.js
+    DEBUG=* node message.js
 
 ### If you dont understand something
 
