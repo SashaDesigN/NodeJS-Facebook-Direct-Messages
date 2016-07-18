@@ -9,8 +9,11 @@ clone this repo
 ### Dependencies
 
 [facebook-chat-api](https://www.npmjs.com/package/facebook-chat-api)
+
 [mongoose](http://mongoosejs.com/)
+
 [debug](https://www.npmjs.com/package/debug)
+
 
 ### App logic
 
