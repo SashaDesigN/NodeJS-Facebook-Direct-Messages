@@ -1,4 +1,4 @@
-# ![logo](https://www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiW2MvO4_3NAhXidpoKHRplC9MQjRwIBw&url=https%3A%2F%2Fwww.facebookbrand.com%2F&psig=AFQjCNFh_UmBgaSn4ltnjZJRemhLv8Xi-A&ust=1468957593385657) Send Facebook Direct Messages on NodeJS with Mongoose
+# ![logo](//www.google.com.ua/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiW2MvO4_3NAhXidpoKHRplC9MQjRwIBw&url=https%3A%2F%2Fwww.facebookbrand.com%2F&psig=AFQjCNFh_UmBgaSn4ltnjZJRemhLv8Xi-A&ust=1468957593385657) Send Facebook Direct Messages on NodeJS with Mongoose
 
 **Read the [facebook-chat-api](https://www.npmjs.com/package/facebook-chat-api)** docs  - my code use this module for authorize on Facebook.
 
