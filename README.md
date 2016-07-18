@@ -1,4 +1,4 @@
-# ![logo](http://www.fiu.edu/_assets/images/core/icons/facebook.png) Send Facebook Direct Messages on NodeJS with Mongoose
+# ![logo](http://lekeishalopez.com/wp-content/uploads/2013/01/small_Facebook-icon.png) Send Facebook Direct Messages on NodeJS with Mongoose
 
 **Read the [facebook-chat-api](https://www.npmjs.com/package/facebook-chat-api)** docs  - my code use this module for authorize on Facebook.
 
@@ -22,7 +22,7 @@ This app send messages to prepeared list of users which are stored on MongoDB co
 
 ### How to run
 
-``` DEBUG=* node message.js
+```` DEBUG=* node message.js
 
 ### If you dont understand something
 
