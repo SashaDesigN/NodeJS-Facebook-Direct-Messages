@@ -23,6 +23,8 @@ config.json hold 2 variables, sended - count of sended messages, currentUser - c
 
 This app send messages to prepeared list of users which are stored on MongoDB collection. I attach dump of databese with this collection in the 'dump' folder.
 
+If you need send messages to specified list of JSON-based recipients - only change logic of App and stop using of Mongoose.
+
 ### How to run
 
     DEBUG=* node message.js
@@ -30,3 +32,7 @@ This app send messages to prepeared list of users which are stored on MongoDB co
 ### If you dont understand something
 
 Please will free to open new issues - I'm only start develop NodeJS Apps, so can do some bugs or do some easy things in very hard way. Thanks.
+
+### Plans on the future
+
+Add more features - I`m developing now Python and Node Selenium-based versions of Fb Direct messager and will publish them soon.
